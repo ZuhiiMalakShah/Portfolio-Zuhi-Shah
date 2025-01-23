@@ -12,7 +12,7 @@ const introdata = {
         third: "I develop Food Websites",
     },
     description: "Hey! I am Zuhii Shah and I am a FrontEnd web developer on a journey to become a Full Stack Developer. My educational journey is currently focused on foundational web technologies like HTML, CSS, and TypeScript, while also diving deep into backend development. This balanced approach is nurturing my ability to develop comprehensive, end-to-end web solutions.",
-    your_img_url: "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAsJCQcJCQcJCQkJCwkJCQkJCQsJCwsMCwsLDA0QDBEODQ4MEhkSJRodJR0ZHxwpKRYlNzU2GioyPi0pMBk7IRP/...",
+    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
